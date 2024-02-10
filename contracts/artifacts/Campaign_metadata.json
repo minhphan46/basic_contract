@@ -185,7 +185,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/3_Ballot.sol": "Campain"
+			"contracts/3_Ballot.sol": "Campaign"
 		},
 		"libraries": {},
 		"optimizer": {
@@ -196,9 +196,9 @@
 	},
 	"sources": {
 		"contracts/3_Ballot.sol": {
-			"keccak256": "0x1a161c580e90b8ee6268d0848a6958a2ec4e6c5c63e1d298310f3a9eb7190f4d",
+			"keccak256": "0x3f036aa7b6b500a404dba5f6e78f296363a219df62f9568322a3f82684616811",
 			"urls": [
-				"bzzr://372be77e6f38b37e2014ae1fa5de86e10333571357472911f55fa28a32a7cae4"
+				"bzzr://da77f433c6d009e190e01cb83330ab0df689596f205c5dda6c7bdfd28abe5d2f"
 			]
 		}
 	},
